@@ -1,0 +1,11 @@
+#mek{
+	width: 400px;
+	border: 1px solid black;
+	height: 300px; 
+    margin: 0 auto;
+	background-color: yellow;
+	padding: 10px;
+}
+#erku{
+    padding: 10px;
+}
